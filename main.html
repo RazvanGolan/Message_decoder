@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Free custom Coder</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="icons8-favicon-40.png">
+</head>
+<body>
+    <h1><center>Code your Message</center></h1>
+    <br><br>
+    <div class="container">
+      <div id="buttonContainer">
+	  <h3>Structure:</h3>
+          <button onclick="addCharacter('0x08 ')">BLE</button>
+          <button onclick="addCharacter('0x09 ')">UWB</button>
+      </div>
+      <div id="buttonContainer">
+	<h3>Payload Type:</h3>
+          <button onclick="addCharacter('0x04 ')">Owner Pairing</button>
+          <button onclick="addCharacter('0x05 ')">Scan Device</button>
+	  <br><br>
+	  <button onclick="addCharacter('0x06 ')">Start Session </button>
+          <button onclick="addCharacter('0x07 ')">Start Ranging</button>
+      </div>
+      <div>
+	<h3>Data:</h3>
+	<input type="text" class = "txt" id="textInput" placeholder="Enter your message">
+        <button onclick="submitText()">Submit</button>
+      </div>
+      <br><br>
+        <textarea id="result" placeholder="Result" readonly></textarea>
+	<button onclick="copyMessage()">Copy Message</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
