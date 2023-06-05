@@ -1,5 +1,6 @@
-<h1><a href="https://razvangolan.github.io/Message_decoder/"><center>Message Decoder</center></h1></a>
+<h1><center>Message Decoder</center></h1>
 <p>Individual project at Continental from yours truly<p>
+<p><a href="https://razvangolan.github.io/Message_decoder/">Link</a> to the site where you can easily code a message</p>
 <br>
 <h1>Requirements</h1>
 <img width="637" alt="Screenshot 2023-06-05 at 17 40 24" src="https://github.com/RazvanGolan/Message_decoder/assets/117024228/3b6d58db-8550-4d75-a786-a0c1c59e78ba">
