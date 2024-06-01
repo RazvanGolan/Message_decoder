@@ -1,5 +1,5 @@
 <h1><center>Message Decoder</center></h1>
-<p>Individual project at Continental from yours truly<p>
+<p>Individual project at Continental via LigaAC Labs<p>
 <p><a href="https://razvangolan.github.io/Message_decoder/">Link</a> to the site where you can easily code a message</p>
 <br>
 <h1>Requirements</h1>
